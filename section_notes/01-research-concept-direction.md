@@ -1,1 +1,1 @@
-create a greeting algort
+example
