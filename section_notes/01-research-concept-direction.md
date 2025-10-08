@@ -1,26 +1,58 @@
+# Hello
 
-# Research Concept & Direction
+This is a **live demo** of MDXEditor with all default features on.
 
-# theorem-proving: Discovering New Theorems Automatically
+> The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible.
+> The idea is that a Markdown-formatted document should be publishable as-is, as plain text,
+> without looking like it’s been marked up with tags or formatting instructions.
 
-## Motivation
-Discover new theorems, given a research area, with informal and formal proofs. The discovery should have characteristics that are relevant to the real world. Currently, it is evaluated on two dimensions:
-- Importance
-- Novelty
+[— Daring Fireball](https://daringfireball.net/projects/markdown/).
 
-But this can be easily expanded.
+In here, you can find the following markdown elements:
 
-In this version of the project, we are not going to use SFT to the LLMs. All the training is via prompts.
+* Headings
+* Lists
+  * Unordered
+  * Ordered
+  * Check lists
+  * And nested ;)
+* Links
+* Bold/Italic/Underline formatting
+* Tables
+* Code block editors
+* And much more.
 
-## User Input Example
+The current editor content is styled using the `@tailwindcss/typography` [plugin](https://tailwindcss.com/docs/typography-plugin).
 
-### Research Area
-In statistics, the study of the rate of convergence in nonparametric regression.
+## What can you do here?
 
-### Hyperparameters
+This is a great location for you to test how editing markdown feels. If you have an existing markdown source, you can switch to source mode using the toggle group in the top right, paste it in there, and go back to rich text mode.
 
-#### Query Syntax
-(A and B are theorem names, with contents in class=MyTheoremCls)
+If you need a few ideas, here's what you can try:
 
-* **Importance Query**:
-```
+1. Add your own code sample
+2. Change the type of the headings
+3. Insert a table, add a few rows and columns
+4. Switch back to source markdown to see what you're going to get as an output
+5. Test the diff feature to see how the markdown has changed
+6. Add a frontmatter block through the toolbar button
+
+## A code sample
+
+MDXEditor embeds CodeMirror for code editing.
+
+## A live code example
+
+The block below is a live React component. You can configure multiple live code presets that specify the available npm packages and the default imports. You can also specify a default component that will be rendered in the live code block.
+
+## A table
+
+Play with the table below - add rows, columns, change column alignment. When editing,
+you can navigate the cells with `enter`, `shift+enter`, `tab` and `shift+tab`.
+
+| Item              | In Stock | Price |
+| :---------------- | :------: | ----: |
+| Python Hat        |   True   | 23.99 |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |   False  | 19.99 |
+| Codecademy Hoodie |   False  | 42.99 |
