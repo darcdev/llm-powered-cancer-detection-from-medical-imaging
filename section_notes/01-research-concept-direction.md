@@ -1,3 +1,7 @@
+# Research Concept & Direction
+
+# theorem-proving: Discovering New Theorems Automatically
+
 ## Motivation
 
 Discover new theorems, given a research area, with informal and formal proofs. The discovery should have characteristics that are relevant to the real world. Currently, it is evaluated on two dimensions:
