@@ -1,26 +1,9 @@
-```
-# Research Concept & Direction
+# Welcome
 
-# theorem-proving: Discovering New Theorems Automatically
+This is a **live demo** of MDXEditor with all default features on.
 
-## Motivation
-Discover new theorems, given a research area, with informal and formal proofs. The discovery should have characteristics that are relevant to the real world. Currently, it is evaluated on two dimensions:
-- Importance
-- Novelty
+> The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible.
+> The idea is that a Markdown-formatted document should be publishable as-is, as plain text,
+> without looking like it’s been marked up with tags or formatting instructions.
 
-But this can be easily expanded.
-
-In this version of the project, we are not going to use SFT to the LLMs. All the training is via prompts.
-
-## User Input Example
-
-### Research Area
-In statistics, the study of the rate of convergence in nonparametric regression.
-
-### Hyperparameters
-
-#### Query Syntax
-(A and B are theorem names, with contents in class=MyTheoremCls)
-
-* **Importance Query**:
-```
+[— Daring Fireball](https://daringfireball.net/projects/markdown/).
