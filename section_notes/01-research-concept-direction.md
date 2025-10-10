@@ -1,5 +1,3 @@
-# Research Concept & Direction: LLM-Powered Cancer Detection from Medical Imaging
-
 ## Problem Statement
 
 Current Large Language Models (LLMs) demonstrate significant limitations when applied to cancer detection from medical imaging, with moderate agreement rates with expert radiologists and concerning discordance patterns that could negatively impact patient management decisions.
