@@ -1,4 +1,3 @@
-
 # Research Concept & Direction
 
 ## Problem Definition
@@ -14,19 +13,24 @@ Current multimodal large language models (MLLMs) for cancer detection from medic
 ## Literature-Level Insights
 
 ### 1. Implicit Assumption Across Literature
+
 Most MLLM research assumes that general vision-language architectures (e.g., CLIP-based encoders) can effectively capture medically relevant visual features through fine-tuning alone. This assumption spans from foundational work to recent applications (Wang et al., 2024; Nam et al., 2025).
 
 ### 2. Novel Research Direction
+
 We propose that medical imaging requires fundamentally different multimodal fusion strategies that:
-- Explicitly model anatomical structure-function relationships
-- Incorporate clinical domain knowledge into attention mechanisms  
-- Provide traceable reasoning paths from visual features to diagnostic conclusions
+
+* Explicitly model anatomical structure-function relationships
+* Incorporate clinical domain knowledge into attention mechanisms
+* Provide traceable reasoning paths from visual features to diagnostic conclusions
 
 ### 3. Impact Assessment
+
 If validated, this approach would:
-- Reshape how MLLMs are designed for medical applications
-- Establish new evaluation standards for medical AI interpretability
-- Enable safer clinical deployment through explainable diagnostic pathways
+
+* Reshape how MLLMs are designed for medical applications
+* Establish new evaluation standards for medical AI interpretability
+* Enable safer clinical deployment through explainable diagnostic pathways
 
 ## Research Vector & Risk Analysis
 
@@ -43,9 +47,10 @@ If validated, this approach would:
 ## Expected Contributions
 
 This research will provide:
-- Novel architectural paradigms for medical MLLMs
-- Empirical validation of region-aware reasoning benefits
-- Clinical evaluation frameworks for trustworthy AI systems
-- Open-source implementations and benchmarks for the research community
+
+* Novel architectural paradigms for medical MLLMs
+* Empirical validation of region-aware reasoning benefits
+* Clinical evaluation frameworks for trustworthy AI systems
+* Open-source implementations and benchmarks for the research community
 
 *Research methodology follows Gödel-Darwin-Wittgenstein paradigm of fundamental assumption challenging that reshapes entire fields.*
