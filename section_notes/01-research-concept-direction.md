@@ -2,7 +2,7 @@
 
 
 
-This is a \*\*live demo\*\* of MDXEditor with all default features on.sssssss
+This is a \*\*live demo\*\* of MDXEditor with all default features on.ssssssss
 
 
 
