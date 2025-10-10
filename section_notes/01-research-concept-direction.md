@@ -1,1 +1,1 @@
-Research texts about my&#x20;
+Research texts about my wor
