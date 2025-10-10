@@ -1,1 +1,1 @@
-better than&#x20;
+better&#x20;
