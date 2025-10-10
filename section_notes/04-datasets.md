@@ -8,4 +8,4 @@ Enhanced Datasets section with comprehensive research analysis:
 * Added code examples for dataset loading and access
 * Structured experimental design with statistical rigor
 
-Total scope: 1 datasets × 2 architectures × 1 seeds =3 experiments
+Total scope: 1 datasets × 2 architectures × 1 seeds \=3 experiments
