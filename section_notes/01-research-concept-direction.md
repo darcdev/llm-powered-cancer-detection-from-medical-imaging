@@ -1,1 +1,1 @@
-Research a&#x20;
+Research a
