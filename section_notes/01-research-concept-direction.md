@@ -1,1 +1,1 @@
-Research texts about my w
+Research texts about my job
